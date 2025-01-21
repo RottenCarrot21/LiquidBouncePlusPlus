@@ -14,6 +14,9 @@ import java.util.Random;
  * @author Vitox
  * @version 3.0
  */
+
+
+// adding a comment so the github action will fire up
 class Particle {
 
     public float x;
